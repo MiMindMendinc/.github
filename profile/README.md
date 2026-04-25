@@ -6,6 +6,9 @@ Michigan MindMend Inc. is a Michigan-built nonprofit technology effort founded b
 
 The work is direct and proof-driven: local-first systems, safety-aware workflows, LLM guardrails, edge deployment concepts, and honest documentation about what is working, what is prototype, and what still needs review.
 
+**Phase 1 is complete:** the public portfolio now clearly shows the mission, top prototypes, test/CI direction, and safety boundaries.  
+**Phase 2 is underway:** production hardening, demo proof, security review, real-world partner feedback, and deployment-ready packaging.
+
 ---
 
 ## Featured Sponsor-Ready Projects
@@ -74,6 +77,20 @@ Open to conversations around:
 
 ---
 
+## What’s Next
+
+Phase 2 is focused on turning the cleaned public portfolio into deployable proof:
+
+1. **Demo proof:** screenshots, short walkthrough videos, and visible terminal/API examples for the top projects.
+2. **Production hardening:** stronger tests, clearer CI, threat-model docs, dependency review, and security policies.
+3. **Local model integration:** Ollama / llama.cpp / local inference paths where they make sense.
+4. **Edge deployment notes:** Raspberry Pi / mini-PC setup guides for offline-capable use cases.
+5. **Partner feedback:** conversations with nonprofits, parents, educators, clinicians, and AI safety engineers to refine what should be built next.
+
+The goal is not to claim finished products too early. The goal is to keep moving from credible prototypes toward responsible, testable, real-world deployment.
+
+---
+
 ## Founder
 
 **Lyle Perrien II**  
@@ -86,4 +103,4 @@ Self-taught AI builder focused on privacy-first tools, offline-capable AI system
 
 ---
 
-**Built in Michigan. Human-first. Privacy-first. Offline-capable.**
+**Built in Michigan. Human-first. Privacy-first. Offline-capable. Phase 2 loading.**
