@@ -1,44 +1,48 @@
 # Michigan MindMend Inc.
 
-**Privacy-first, offline-first AI tools for youth safety, family wellness, and responsible local automation.**
+**Privacy-first, offline-capable AI tools for youth safety, family wellness, and community resilience.**
 
-Michigan MindMend Inc. is a Michigan-built nonprofit technology effort founded by **Lyle Perrien II** in Owosso, Michigan. The mission is simple: build useful AI systems that help people without default cloud surveillance, hidden data harvesting, or platform dependency.
+Michigan MindMend Inc. is a Michigan-built nonprofit technology effort founded by **Lyle Perrien II** in Owosso, Michigan. We build practical AI prototypes for families and communities without default cloud surveillance, hidden data harvesting, or platform dependency.
 
-We focus on local-first AI, LLM safety layers, youth-support prototypes, privacy-preserving workflows, and practical tools families and communities can understand.
-
----
-
-## What we build
-
-- **LLM safety gateways** for safer chat-completion workflows
-- **Offline guardian tools** for youth safety and family support concepts
-- **Empathy and crisis-aware response layers** for sensitive wellness use cases
-- **Local RAG / memory prototypes** for private AI assistants
-- **AI systems experiments** involving inference, RoPE, Triton, and benchmarking
-- **Simple public demos** that communicate privacy-first AI to normal people
+The work is direct and proof-driven: local-first systems, safety-aware workflows, LLM guardrails, edge deployment concepts, and honest documentation about what is working, what is prototype, and what still needs review.
 
 ---
 
-## Featured work
+## Featured Sponsor-Ready Projects
 
-### TrustLayer
-A lightweight LLM safety gateway for OpenAI-style chat-completion APIs. Demonstrates PII redaction, jailbreak detection, topic blocking, streaming passthrough, and audit-log concepts.
+### [TrustLayer](https://github.com/MiMindMendinc/TrustLayer)
+**LLM safety gateway prototype for privacy-aware chat-completion apps.**
 
-### MindMend Guardian
-A privacy-first youth safety prototype exploring local, family-controlled AI support, guardian-mode workflows, and offline-capable wellness architecture.
+TrustLayer sits between an app and an OpenAI-compatible model endpoint to demonstrate PII redaction, jailbreak/prompt-injection checks, topic blocking, streaming passthrough, and local audit-log concepts.
 
-### OpenClaw Empathy Anchor
-An offline-first empathy and safety support layer for youth wellness, journaling, emotional check-ins, and safety-aware response generation.
+**Shows:** AI safety middleware, trust-and-safety automation, privacy filters, Node.js API work, tests, and CI.
 
-### Grok-1 Inference Fork
-A public research fork of the open Grok-1 release focused on inference wiring, RoPE cleanup, benchmark entrypoints, and reproducible testing notes.
+### [MindMend Guardian](https://github.com/MiMindMendinc/mindmend-guardian)
+**Privacy-first edge guardian prototype for youth safety and family wellness.**
 
-### Dominus Ultra
-An educational Triton attention-kernel project with fused RoPE and GQA-style head mapping, framed around correctness-first GPU-kernel learning.
+MindMend Guardian explores local, family-controlled safety workflows for risk signals such as distress, bullying, grooming language, and crisis-adjacent inputs while keeping humans in control.
+
+**Shows:** child/family safety product thinking, offline-capable architecture, Python prototyping, safety boundaries, tests, and CI.
+
+### [HumaniCare AI / MindMend Vault](https://github.com/MiMindMendinc/mindmend-vault-private)
+**Local-first FastAPI scaffold for privacy-aware health, mental-health, and community-resilience tools.**
+
+HumaniCare AI includes a working FastAPI service, safety triage route, mental-health peer-support route, medical-bill review route, local JSONL audit logging, Docker Compose, tests, and CI.
+
+**Shows:** FastAPI, Docker, pytest, GitHub Actions, local-first infrastructure, audit logging, and safety-aware documentation.
 
 ---
 
-## Core values
+## Additional Technical Work
+
+- [OpenClaw Empathy Anchor](https://github.com/MiMindMendinc/OpenClaw-Empathy-Anchor-MindMend-OpenClaw-) — offline-first empathy and safety response-layer prototype.
+- [Grok-1 Inference Fork](https://github.com/MiMindMendinc/grok-1) — public research fork focused on inference wiring, RoPE cleanup, and reproducible testing notes.
+- [Dominus Ultra](https://github.com/MiMindMendinc/DominusUltra) — educational Triton attention-kernel project focused on correctness-first GPU learning.
+- [SnapNote](https://github.com/MiMindMendinc/SnapNote) — privacy-first photo-to-notes and summarization prototype.
+
+---
+
+## Core Values
 
 - **Privacy over harvesting**
 - **Human judgment over blind automation**
@@ -49,24 +53,13 @@ An educational Triton attention-kernel project with fused RoPE and GQA-style hea
 
 ---
 
-## Tech areas
+## Technical Areas
 
-`Python` · `Node.js` · `FastAPI/Flask` · `LLM safety` · `offline AI` · `RAG` · `Ollama` · `local-first apps` · `Triton` · `PyTorch` · `JAX/Haiku` · `Docker` · `privacy engineering`
-
----
-
-## Founder
-
-**Lyle Perrien II**  
-Founder, Michigan MindMend Inc.  
-Owosso, Michigan  
-Email: michiganmindmendinc@proton.me
-
-I am a self-taught AI builder focused on privacy-first tools, offline AI systems, youth safety, LLM guardrails, and practical prototypes that communities can actually use.
+`Python` · `Node.js` · `FastAPI` · `Flask` · `Docker` · `GitHub Actions` · `pytest` · `LLM safety` · `privacy engineering` · `local-first apps` · `offline AI` · `Ollama` · `RAG` · `Triton` · `PyTorch` · `JAX/Haiku`
 
 ---
 
-## Hiring / collaboration focus
+## Collaboration Focus
 
 Open to conversations around:
 
@@ -77,7 +70,20 @@ Open to conversations around:
 - Applied AI Prototyping
 - Local-first AI tooling
 - Privacy-first product development
+- Sponsorship for youth/family safety tools
 
 ---
 
-**Michigan-built. Human-first. Privacy-first. Offline-capable.**
+## Founder
+
+**Lyle Perrien II**  
+Founder, Michigan MindMend Inc.  
+Owosso, Michigan  
+X: [@p_perrien](https://x.com/p_perrien)  
+Email: michiganmindmendinc@proton.me
+
+Self-taught AI builder focused on privacy-first tools, offline-capable AI systems, youth safety, LLM guardrails, and practical prototypes communities can actually use.
+
+---
+
+**Built in Michigan. Human-first. Privacy-first. Offline-capable.**
