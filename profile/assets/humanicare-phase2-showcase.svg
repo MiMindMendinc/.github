@@ -1,0 +1,121 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="HumaniCare AI — Phase 2 Demo Proof">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="900" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#050B14"/>
+      <stop offset="0.45" stop-color="#071827"/>
+      <stop offset="1" stop-color="#0A2A2A"/>
+    </linearGradient>
+    <linearGradient id="green" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#8FF7C0"/>
+      <stop offset="1" stop-color="#24C6DC"/>
+    </linearGradient>
+    <linearGradient id="orange" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#FFC857"/>
+      <stop offset="1" stop-color="#E07A5F"/>
+    </linearGradient>
+    <linearGradient id="purple" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#B56CFF"/>
+      <stop offset="1" stop-color="#4CC9F0"/>
+    </linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="8" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <style>
+      .title{font:800 58px Inter,Segoe UI,Arial,sans-serif;fill:#F4FAFF;letter-spacing:-1.4px}
+      .subtitle{font:400 22px Inter,Segoe UI,Arial,sans-serif;fill:#BFD4D8}
+      .h1{font:800 32px Inter,Segoe UI,Arial,sans-serif;fill:#F4FAFF}
+      .h2{font:700 22px Inter,Segoe UI,Arial,sans-serif;fill:#EAF7F3}
+      .body{font:400 18px Inter,Segoe UI,Arial,sans-serif;fill:#C8D7DD}
+      .small{font:500 15px Inter,Segoe UI,Arial,sans-serif;fill:#9FB3BD}
+      .mono{font:500 15px ui-monospace,SFMono-Regular,Consolas,monospace;fill:#DDEBF0}
+      .badge{font:700 16px Inter,Segoe UI,Arial,sans-serif;fill:#74F2D3}
+      .metric{font:800 42px Inter,Segoe UI,Arial,sans-serif;fill:#76F0B5}
+    </style>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <circle cx="156" cy="104" r="80" fill="#0B3D33" opacity=".5" filter="url(#glow)"/>
+  <path d="M156 42 L218 72 V148 C218 185 187 211 156 222 C125 211 94 185 94 148 V72 L156 42Z" fill="#08131F" stroke="url(#green)" stroke-width="8"/>
+  <path d="M130 119 C151 116 160 136 156 163 C137 156 124 143 130 119Z" fill="#86F5B9"/>
+  <path d="M182 119 C161 116 152 136 156 163 C175 156 188 143 182 119Z" fill="#44D7BE"/>
+  <text x="266" y="82" class="title">HumaniCare AI — Phase 2 Demo Proof</text>
+  <text x="268" y="122" class="subtitle">Privacy-first, local-first AI infrastructure for youth safety, family wellness, and community resilience.</text>
+  <rect x="1280" y="38" width="260" height="46" rx="14" fill="#071827" stroke="#24C6DC" stroke-width="1.5"/>
+  <text x="1305" y="67" class="badge">Prototype demo • Phase 2 proof</text>
+
+<rect x="32" y="150" width="748" height="342" rx="22" fill="#092414" fill-opacity="0.92" stroke="#2EAD73" stroke-width="1.5"/>
+<circle cx="76" cy="192" r="28" fill="#102F24" stroke="#5CE69B" stroke-width="2"/><text x="66" y="204" class="h1">1</text>
+<text x="116" y="190" class="h1">Cedar</text><text x="116" y="220" class="h2" fill="#9EF5B8">Wellness Companion</text>
+<circle cx="74" cy="264" r="9" fill="#0D2D2C" stroke="#70F0A7" stroke-width="1.5"/><path d="M70 264 l3 4 l6 -8" stroke="#70F0A7" stroke-width="2" fill="none" stroke-linecap="round"/><text x="96" y="270" class="body">Guided breathing &amp; meditations</text>
+<circle cx="74" cy="302" r="9" fill="#0D2D2C" stroke="#70F0A7" stroke-width="1.5"/><path d="M70 302 l3 4 l6 -8" stroke="#70F0A7" stroke-width="2" fill="none" stroke-linecap="round"/><text x="96" y="308" class="body">Mood tracking &amp; habit streaks</text>
+<circle cx="74" cy="340" r="9" fill="#0D2D2C" stroke="#70F0A7" stroke-width="1.5"/><path d="M70 340 l3 4 l6 -8" stroke="#70F0A7" stroke-width="2" fill="none" stroke-linecap="round"/><text x="96" y="346" class="body">Journaling &amp; reflection</text>
+<circle cx="74" cy="378" r="9" fill="#0D2D2C" stroke="#70F0A7" stroke-width="1.5"/><path d="M70 378 l3 4 l6 -8" stroke="#70F0A7" stroke-width="2" fill="none" stroke-linecap="round"/><text x="96" y="384" class="body">Kid-safe tools &amp; soundscapes</text>
+<circle cx="74" cy="416" r="9" fill="#0D2D2C" stroke="#70F0A7" stroke-width="1.5"/><path d="M70 416 l3 4 l6 -8" stroke="#70F0A7" stroke-width="2" fill="none" stroke-linecap="round"/><text x="96" y="422" class="body">Offline by design. No accounts.</text>
+<rect x="420" y="176" width="330" height="276" rx="22" fill="#09291C" fill-opacity="0.95" stroke="#23594D" stroke-width="1.5"/>
+<text x="452" y="215" class="h2">🧸 Cedar</text><text x="452" y="242" class="small">Your private wellness companion</text>
+<rect x="452" y="262" width="240" height="34" rx="12" fill="#12375A"/><text x="470" y="285" class="small" fill="#EAF7F3">How are you feeling today?</text>
+<rect x="452" y="316" width="252" height="88" rx="12" fill="#0D3328" stroke="#295E50"/><text x="472" y="344" class="small">Private, offline support for</text><text x="472" y="368" class="small">breathing, journaling, mood,</text><text x="472" y="392" class="small">soundscapes, and kid-safe tools.</text>
+<text x="452" y="432" class="small" fill="#FCDFAE">🔒 Everything stays on your device.</text>
+<rect x="800" y="150" width="768" height="342" rx="22" fill="#06172A" fill-opacity="0.92" stroke="#1E84A1" stroke-width="1.5"/>
+<circle cx="844" cy="192" r="28" fill="#09243A" stroke="#3CD5F2" stroke-width="2"/><text x="834" y="204" class="h1">2</text>
+<text x="884" y="190" class="h1">SentinelGate</text><text x="884" y="220" class="h2" fill="#4CD8F6">Safety Dashboard</text>
+<circle cx="842" cy="264" r="9" fill="#0D2D2C" stroke="#55D8F5" stroke-width="1.5"/><path d="M838 264 l3 4 l6 -8" stroke="#55D8F5" stroke-width="2" fill="none" stroke-linecap="round"/><text x="864" y="270" class="body">Trust index &amp; system health</text>
+<circle cx="842" cy="302" r="9" fill="#0D2D2C" stroke="#55D8F5" stroke-width="1.5"/><path d="M838 302 l3 4 l6 -8" stroke="#55D8F5" stroke-width="2" fill="none" stroke-linecap="round"/><text x="864" y="308" class="body">Real-time blocks &amp; flags</text>
+<circle cx="842" cy="340" r="9" fill="#0D2D2C" stroke="#55D8F5" stroke-width="1.5"/><path d="M838 340 l3 4 l6 -8" stroke="#55D8F5" stroke-width="2" fill="none" stroke-linecap="round"/><text x="864" y="346" class="body">24h safety forecasting</text>
+<circle cx="842" cy="378" r="9" fill="#0D2D2C" stroke="#55D8F5" stroke-width="1.5"/><path d="M838 378 l3 4 l6 -8" stroke="#55D8F5" stroke-width="2" fill="none" stroke-linecap="round"/><text x="864" y="384" class="body">Policy presets + audit feed</text>
+<circle cx="842" cy="416" r="9" fill="#0D2D2C" stroke="#55D8F5" stroke-width="1.5"/><path d="M838 416 l3 4 l6 -8" stroke="#55D8F5" stroke-width="2" fill="none" stroke-linecap="round"/><text x="864" y="422" class="body">Built for youth safety workflows</text>
+<rect x="1140" y="176" width="180" height="120" rx="22" fill="#061A2A" fill-opacity="0.92" stroke="#25536E" stroke-width="1.5"/>
+<text x="1170" y="210" class="small">TRUST INDEX</text><text x="1170" y="260" class="metric">99.5</text>
+<rect x="1336" y="176" width="188" height="120" rx="22" fill="#061A2A" fill-opacity="0.92" stroke="#25536E" stroke-width="1.5"/>
+<text x="1358" y="210" class="small">24H FORECAST</text><polyline points="1360,264 1390,242 1420,252 1450,228 1488,238" fill="none" stroke="#77F0D2" stroke-width="4"/><circle cx="1450" cy="228" r="6" fill="#77F0D2"/>
+<rect x="1140" y="316" width="384" height="142" rx="22" fill="#061A2A" fill-opacity="0.92" stroke="#25536E" stroke-width="1.5"/>
+<text x="1164" y="352" class="small">RECENT AUDIT FEED</text><text x="1164" y="388" class="mono">✓ api_call → standard</text><text x="1164" y="418" class="mono">✓ file_system → restricted</text><text x="1164" y="448" class="mono">○ web_search → reviewed</text>
+<rect x="32" y="514" width="748" height="290" rx="22" fill="#120D26" fill-opacity="0.92" stroke="#8147C7" stroke-width="1.5"/>
+<circle cx="76" cy="556" r="28" fill="#21113A" stroke="#B46CFF" stroke-width="2"/><text x="66" y="568" class="h1">3</text>
+<text x="116" y="554" class="h1">Neural Blitz</text><text x="116" y="584" class="h2" fill="#BF7CFF">Benchmark &amp; Harness</text>
+<circle cx="74" cy="630" r="9" fill="#0D2D2C" stroke="#B46CFF" stroke-width="1.5"/><path d="M70 630 l3 4 l6 -8" stroke="#B46CFF" stroke-width="2" fill="none" stroke-linecap="round"/><text x="96" y="636" class="body">Reproducible UDP latency tests</text>
+<circle cx="74" cy="668" r="9" fill="#0D2D2C" stroke="#B46CFF" stroke-width="1.5"/><path d="M70 668 l3 4 l6 -8" stroke="#B46CFF" stroke-width="2" fill="none" stroke-linecap="round"/><text x="96" y="674" class="body">CSV export &amp; repeatable logs</text>
+<circle cx="74" cy="706" r="9" fill="#0D2D2C" stroke="#B46CFF" stroke-width="1.5"/><path d="M70 706 l3 4 l6 -8" stroke="#B46CFF" stroke-width="2" fill="none" stroke-linecap="round"/><text x="96" y="712" class="body">Scenario coverage + packet tracking</text>
+<circle cx="74" cy="744" r="9" fill="#0D2D2C" stroke="#B46CFF" stroke-width="1.5"/><path d="M70 744 l3 4 l6 -8" stroke="#B46CFF" stroke-width="2" fill="none" stroke-linecap="round"/><text x="96" y="750" class="body">Honest timing, not marketing</text>
+<rect x="410" y="544" width="340" height="226" rx="22" fill="#100F22" fill-opacity="0.92" stroke="#5E3BA1" stroke-width="1.5"/>
+<text x="438" y="580" class="h2">Benchmark Results</text><rect x="438" y="606" width="95" height="56" rx="10" fill="#121B34" stroke="#6753A7"/><text x="456" y="628" class="small">SUCCESS</text><text x="452" y="654" class="h2" fill="#76F0B5">100%</text><rect x="552" y="606" width="95" height="56" rx="10" fill="#121B34" stroke="#6753A7"/><text x="570" y="628" class="small">PPS</text><text x="574" y="654" class="h2" fill="#4CD8F6">1708</text><rect x="666" y="606" width="60" height="56" rx="10" fill="#121B34" stroke="#6753A7"/><text x="681" y="628" class="small">PASS</text><text x="681" y="654" class="h2" fill="#76F0B5">✓</text><text x="438" y="706" class="mono">INFO benchmark complete</text><text x="438" y="736" class="mono">loop_engine: asyncio</text>
+<rect x="800" y="514" width="768" height="290" rx="22" fill="#211405" fill-opacity="0.92" stroke="#C28B17" stroke-width="1.5"/>
+<circle cx="844" cy="556" r="28" fill="#322004" stroke="#F5B942" stroke-width="2"/><text x="834" y="568" class="h1">4</text>
+<text x="884" y="554" class="h1">The Perrien Effect</text><text x="884" y="584" class="h2" fill="#FFC857">Kernel Research &amp; Innovation</text>
+<circle cx="842" cy="630" r="9" fill="#0D2D2C" stroke="#FFC857" stroke-width="1.5"/><path d="M838 630 l3 4 l6 -8" stroke="#FFC857" stroke-width="2" fill="none" stroke-linecap="round"/><text x="864" y="636" class="body">TritonROPE + PagedAttention stack</text>
+<circle cx="842" cy="668" r="9" fill="#0D2D2C" stroke="#FFC857" stroke-width="1.5"/><path d="M838 668 l3 4 l6 -8" stroke="#FFC857" stroke-width="2" fill="none" stroke-linecap="round"/><text x="864" y="674" class="body">Projected H100 performance learning</text>
+<circle cx="842" cy="706" r="9" fill="#0D2D2C" stroke="#FFC857" stroke-width="1.5"/><path d="M838 706 l3 4 l6 -8" stroke="#FFC857" stroke-width="2" fill="none" stroke-linecap="round"/><text x="864" y="712" class="body">Bit-exact verification focus</text>
+<circle cx="842" cy="744" r="9" fill="#0D2D2C" stroke="#FFC857" stroke-width="1.5"/><path d="M838 744 l3 4 l6 -8" stroke="#FFC857" stroke-width="2" fill="none" stroke-linecap="round"/><text x="864" y="750" class="body">Documented, reproducible research</text>
+<rect x="1184" y="544" width="340" height="226" rx="22" fill="#1C1204" fill-opacity="0.92" stroke="#8B610D" stroke-width="1.5"/>
+<text x="1210" y="580" class="h2">Candidate Metrics</text><text x="1210" y="620" class="mono">success_rate   100.000</text><text x="1210" y="650" class="mono">p99_us         41285.093</text><text x="1210" y="680" class="mono">pps            4175.551</text><text x="1210" y="710" class="mono">loop_engine    asyncio</text><text x="1210" y="750" class="small" fill="#FFC857">Projected/demo results labeled clearly.</text>
+<circle cx="40" cy="810" r="2.2" fill="#21C6D8" opacity=".35"/>
+<circle cx="40" cy="846" r="2.2" fill="#21C6D8" opacity=".35"/>
+<circle cx="58" cy="828" r="2.2" fill="#21C6D8" opacity=".35"/>
+<circle cx="76" cy="810" r="2.2" fill="#21C6D8" opacity=".35"/>
+<circle cx="76" cy="846" r="2.2" fill="#21C6D8" opacity=".35"/>
+<circle cx="94" cy="828" r="2.2" fill="#21C6D8" opacity=".35"/>
+<circle cx="112" cy="810" r="2.2" fill="#21C6D8" opacity=".35"/>
+<circle cx="112" cy="846" r="2.2" fill="#21C6D8" opacity=".35"/>
+<circle cx="130" cy="828" r="2.2" fill="#21C6D8" opacity=".35"/>
+<circle cx="148" cy="810" r="2.2" fill="#21C6D8" opacity=".35"/>
+<circle cx="148" cy="846" r="2.2" fill="#21C6D8" opacity=".35"/>
+<circle cx="166" cy="828" r="2.2" fill="#21C6D8" opacity=".35"/>
+<circle cx="184" cy="810" r="2.2" fill="#21C6D8" opacity=".35"/>
+<circle cx="184" cy="846" r="2.2" fill="#21C6D8" opacity=".35"/>
+<circle cx="202" cy="828" r="2.2" fill="#21C6D8" opacity=".35"/>
+<circle cx="1360" cy="810" r="2.2" fill="#21C6D8" opacity=".35"/>
+<circle cx="1360" cy="846" r="2.2" fill="#21C6D8" opacity=".35"/>
+<circle cx="1378" cy="828" r="2.2" fill="#21C6D8" opacity=".35"/>
+<circle cx="1396" cy="810" r="2.2" fill="#21C6D8" opacity=".35"/>
+<circle cx="1396" cy="846" r="2.2" fill="#21C6D8" opacity=".35"/>
+<circle cx="1414" cy="828" r="2.2" fill="#21C6D8" opacity=".35"/>
+<circle cx="1432" cy="810" r="2.2" fill="#21C6D8" opacity=".35"/>
+<circle cx="1432" cy="846" r="2.2" fill="#21C6D8" opacity=".35"/>
+<circle cx="1450" cy="828" r="2.2" fill="#21C6D8" opacity=".35"/>
+<circle cx="1468" cy="810" r="2.2" fill="#21C6D8" opacity=".35"/>
+<circle cx="1468" cy="846" r="2.2" fill="#21C6D8" opacity=".35"/>
+<circle cx="1486" cy="828" r="2.2" fill="#21C6D8" opacity=".35"/>
+<circle cx="1504" cy="810" r="2.2" fill="#21C6D8" opacity=".35"/>
+<circle cx="1504" cy="846" r="2.2" fill="#21C6D8" opacity=".35"/>
+<circle cx="1522" cy="828" r="2.2" fill="#21C6D8" opacity=".35"/>
+  <line x1="96" y1="792" x2="1504" y2="792" stroke="#13424B" stroke-width="1"/>
+  <text x="690" y="842" text-anchor="middle" class="subtitle">Built in Michigan by</text>
+  <text x="835" y="842" class="subtitle" fill="#25D6D6">Michigan MindMend Inc.</text>
+</svg>
