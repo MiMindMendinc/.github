@@ -1,93 +1,70 @@
 # Michigan MindMend Inc.
 
-**Privacy-first, offline-capable AI tools for youth safety, family wellness, and community resilience.**
+**HumaniCare AI: privacy-first, local-first AI infrastructure for youth safety, family wellness, healthcare access, and community resilience.**
 
-Michigan MindMend Inc. is a Michigan-built nonprofit technology effort founded by **Lyle Perrien II** in Owosso, Michigan. We build practical AI prototypes for families and communities without default cloud surveillance, hidden data harvesting, or platform dependency.
+Michigan MindMend Inc. is a Michigan-built nonprofit technology effort founded by **Lyle Perrien II** in Owosso, Michigan. We build practical AI safety prototypes that reduce cloud dependency, avoid hidden data harvesting, and keep human judgment in control.
 
-The work is direct and proof-driven: local-first systems, safety-aware workflows, LLM guardrails, edge deployment concepts, and honest documentation about what is working, what is prototype, and what still needs review.
-
-**Phase 1 is complete:** the public portfolio now clearly shows the mission, top prototypes, test/CI direction, and safety boundaries.  
-**Phase 2 is underway:** production hardening, demo proof, security review, real-world partner feedback, and deployment-ready packaging.
+**Phase 1 complete:** the portfolio now has a clear mission, safety boundaries, core repos, documentation, and sponsor-ready framing.  
+**Phase 2 underway:** demo proof, production hardening, local model paths, security review, and real-world partner feedback.
 
 ---
 
-## Featured Sponsor-Ready Projects
+## HumaniCare AI Umbrella
 
-### [TrustLayer](https://github.com/MiMindMendinc/TrustLayer)
-**LLM safety gateway prototype for privacy-aware chat-completion apps.**
+HumaniCare AI connects the portfolio into one system:
 
-TrustLayer sits between an app and an OpenAI-compatible model endpoint to demonstrate PII redaction, jailbreak/prompt-injection checks, topic blocking, streaming passthrough, and local audit-log concepts.
+```text
+HumaniCare AI
+├── OpenClaw Empathy Anchor — core empathy and safety module
+├── MindMend Guardian — youth/family safety workflows
+├── TrustLayer — LLM safety gateway and privacy middleware
+└── MindMend Vault / HumaniCare API — local-first health, support, and audit-log scaffold
+```
 
-**Shows:** AI safety middleware, trust-and-safety automation, privacy filters, Node.js API work, tests, and CI.
+The goal is not to replace clinicians, parents, emergency services, or trusted humans. The goal is to build safer support infrastructure that protects privacy and routes risk responsibly.
+
+---
+
+## Featured Projects
+
+### [OpenClaw Empathy Anchor](https://github.com/MiMindMendinc/OpenClaw-Empathy-Anchor-MindMend-OpenClaw-)
+**Core HumaniCare module for offline-first empathy, safety-aware response framing, journaling, and youth-support workflows.**
 
 ### [MindMend Guardian](https://github.com/MiMindMendinc/mindmend-guardian)
 **Privacy-first edge guardian prototype for youth safety and family wellness.**
 
-MindMend Guardian explores local, family-controlled safety workflows for risk signals such as distress, bullying, grooming language, and crisis-adjacent inputs while keeping humans in control.
-
-**Shows:** child/family safety product thinking, offline-capable architecture, Python prototyping, safety boundaries, tests, and CI.
+### [TrustLayer](https://github.com/MiMindMendinc/TrustLayer)
+**LLM safety gateway prototype for PII redaction, jailbreak/prompt-injection checks, topic blocking, and local audit-log concepts.**
 
 ### [HumaniCare AI / MindMend Vault](https://github.com/MiMindMendinc/mindmend-vault-private)
-**Local-first FastAPI scaffold for privacy-aware health, mental-health, and community-resilience tools.**
-
-HumaniCare AI includes a working FastAPI service, safety triage route, mental-health peer-support route, medical-bill review route, local JSONL audit logging, Docker Compose, tests, and CI.
-
-**Shows:** FastAPI, Docker, pytest, GitHub Actions, local-first infrastructure, audit logging, and safety-aware documentation.
-
----
-
-## Additional Technical Work
-
-- [OpenClaw Empathy Anchor](https://github.com/MiMindMendinc/OpenClaw-Empathy-Anchor-MindMend-OpenClaw-) — offline-first empathy and safety response-layer prototype.
-- [Grok-1 Inference Fork](https://github.com/MiMindMendinc/grok-1) — public research fork focused on inference wiring, RoPE cleanup, and reproducible testing notes.
-- [Dominus Ultra](https://github.com/MiMindMendinc/DominusUltra) — educational Triton attention-kernel project focused on correctness-first GPU learning.
-- [SnapNote](https://github.com/MiMindMendinc/SnapNote) — privacy-first photo-to-notes and summarization prototype.
+**Local-first FastAPI scaffold for privacy-aware health, mental-health, community-resilience, and audit-log workflows.**
 
 ---
 
 ## Core Values
 
-- **Privacy over harvesting**
-- **Human judgment over blind automation**
-- **Offline capability where possible**
-- **Youth safety and family trust first**
-- **Clear boundaries around medical, crisis, and safety use**
-- **Proof and reproducibility over hype**
+- Privacy over harvesting
+- Human judgment over blind automation
+- Offline capability where possible
+- Youth safety and family trust first
+- Clear medical, crisis, and safety boundaries
+- Proof and reproducibility over hype
 
 ---
 
-## Technical Areas
+## Phase 2 Priorities
 
-`Python` · `Node.js` · `FastAPI` · `Flask` · `Docker` · `GitHub Actions` · `pytest` · `LLM safety` · `privacy engineering` · `local-first apps` · `offline AI` · `Ollama` · `RAG` · `Triton` · `PyTorch` · `JAX/Haiku`
+- Short demo videos, screenshots, and API examples
+- Stronger tests, CI, security docs, and threat models
+- Local model integration paths using Ollama / llama.cpp where appropriate
+- Raspberry Pi / mini-PC edge deployment notes
+- Partner feedback from nonprofits, parents, educators, clinicians, and AI safety engineers
 
 ---
 
 ## Collaboration Focus
 
-Open to conversations around:
-
-- AI Safety Engineering
-- LLM Evaluation / Testing
-- Trust & Safety Automation
-- Prompt Engineering / Red Teaming
-- Applied AI Prototyping
-- Local-first AI tooling
-- Privacy-first product development
-- Sponsorship for youth/family safety tools
-
----
-
-## What’s Next
-
-Phase 2 is focused on turning the cleaned public portfolio into deployable proof:
-
-1. **Demo proof:** screenshots, short walkthrough videos, and visible terminal/API examples for the top projects.
-2. **Production hardening:** stronger tests, clearer CI, threat-model docs, dependency review, and security policies.
-3. **Local model integration:** Ollama / llama.cpp / local inference paths where they make sense.
-4. **Edge deployment notes:** Raspberry Pi / mini-PC setup guides for offline-capable use cases.
-5. **Partner feedback:** conversations with nonprofits, parents, educators, clinicians, and AI safety engineers to refine what should be built next.
-
-The goal is not to claim finished products too early. The goal is to keep moving from credible prototypes toward responsible, testable, real-world deployment.
+Open to conversations around AI safety engineering, LLM evaluation, trust-and-safety automation, prompt red teaming, privacy-first product development, local-first AI tooling, and sponsorship for youth/family safety tools.
 
 ---
 
@@ -103,4 +80,4 @@ Self-taught AI builder focused on privacy-first tools, offline-capable AI system
 
 ---
 
-**Built in Michigan. Human-first. Privacy-first. Offline-capable. Phase 2 loading.**
+**Built in Michigan. Human-first. Privacy-first. Phase 1 complete. Phase 2 underway.**
