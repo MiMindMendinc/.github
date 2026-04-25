@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/humanicare-phase2-showcase.svg" alt="HumaniCare AI Phase 2 Demo Proof" width="100%" />
+</p>
+
 # Michigan MindMend Inc.
 
 **HumaniCare AI** — privacy-first, local-first AI infrastructure for youth safety, family wellness, healthcare access, and community resilience.
